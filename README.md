@@ -109,3 +109,7 @@ income of people living in different neighborhoods in Baltimore and the percenta
 people who stay in same commuting zone as adults.
 
 ![](Picture2.png)
+
+CONCLUSION
+
+Examination of the correlation coefficients shows that there is a negative relationship between individual income of people living in different neighborhoods and the percentage of people who stay in the same commuting zone as adults in both Philadelphia and Baltimore.
